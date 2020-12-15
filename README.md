@@ -1,3 +1,5 @@
+#mongodb副本集部署
+
 1.各主机分别安装mongodb
 
 2.修改配置文本mongo.conf:
